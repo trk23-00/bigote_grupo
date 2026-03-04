@@ -1,3 +1,19 @@
 .ojos{
-    color:black;
+    width: 50px;
+    height: 120px;
+    border-radius: 50%;
+    position: absolute;
+    box-shadow: 
+        225px 250px 0 0 #000,
+        495px 250px 0 0 #000;
+}
+.ojos::after{
+    content: "";
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    box-shadow:
+        240px 270px 0 #fff,
+        510px 270px 0 #fff;
 }
