@@ -1,3 +1,11 @@
 .pomulos{
-    color: black;
+    width:18px;
+    height:5px;
+    border-radius:50%;
+    position:absolute;
+    top:370px;
+    left:368px;
+    box-shadow:
+         151px 0 15px 10px rgba(255,105,180,0.5),
+         -140px 0 15px 10px rgba(255,105,180,0.5);
 }
