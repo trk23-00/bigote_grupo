@@ -1,3 +1,15 @@
-.detalles{
-    color:black;
+.detalles {
+    position: absolute;
+    width: 33px;
+    height: 33px; 
+    border-radius: 6px;
+    top: 120px;
+    left: 60px;
+    box-shadow:
+        443px 60px 0px 0px #C2F282,
+        266px 99px 0px 0px #C2F282,
+        150px 60px 0px 0px #C2F282,
+        160px 270px 0px 0px #C2F282,
+        320px 312px 0px 0px #C2F282,
+        420px 253px 0px 0px #C2F282; 
 }
